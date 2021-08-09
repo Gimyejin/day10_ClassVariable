@@ -8,8 +8,11 @@ public class BonusQuiz {
 		BonusQuiz_method method = new BonusQuiz_method();
 		System.out.println(method.lotto());
 		
+		
 		//Hashset¹æ½Ä
 		System.out.println(method.lotto2());
+		//+)iterator
+		method.lotto3();
 	}
 
 }
